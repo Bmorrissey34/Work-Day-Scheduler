@@ -6,7 +6,7 @@ For this project i have created a daily planner for an average work day. This ap
 ## Deployed App
 ![WORK-DAY-SCHEDULER](https://user-images.githubusercontent.com/88950762/144125863-4db1b213-5250-470a-94bc-1d94909853c3.PNG)
 
-Github Link: https://github.com/Bmorrissey34/Work-Day-Schedule
+Github Link: https://github.com/Bmorrissey34/Work-Day-Scheduler
 
 Live Page: https://bmorrissey34.github.io/Work-Day-Scheduler/
 
