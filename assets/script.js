@@ -1,11 +1,9 @@
 var moment = moment();
 
-
 var currentDay = moment.format('dddd, MMMM Do YYYY');
 $('#currentDay').text(currentDay);
 
 var currentHour = moment.hour();
-
 
 $(document).ready(function () {
   $('.saveBtn').on('click', function () {
